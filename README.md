@@ -46,7 +46,8 @@ This game combines hand gesture controls with classic gameplay for a unique and 
 
 
 About Me 
-Linkedin :- (https://www.linkedin.com/in/md-yazdan-00167128a/)
+Linkedin :- (https://www.linkedin.com/in/md-yazdan-00167128a/)                                                                                       
 Instagram :- (https://www.instagram.com/moondrift_1/)
+
 
 

@@ -23,7 +23,7 @@ Before running this project, ensure you have the following installed:
 ### Steps to Run the Project: 
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/KARTIKRATHOD2005/Hill-climb-racing-hand-gesture.git
+     git clone https://github.com/yazdan-hub/ML-project-game-hand-controler-.git
 
 2. Navigate to the project directory:
    ```bash
@@ -48,6 +48,7 @@ This game combines hand gesture controls with classic gameplay for a unique and 
 About Me 
 Linkedin :- (https://www.linkedin.com/in/md-yazdan-00167128a/)                                                                                       
 Instagram :- (https://www.instagram.com/moondrift_1/)
+
 
 
 
